@@ -6,6 +6,18 @@
 ![platform](https://img.shields.io/badge/platform-Linux%20%2F%20macOS-orange?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 
+## 📖 文档导航
+
+| 文档 | 适用人群 | 预计时间 |
+|------|---------|:--:|
+| **[🌟 新手完全指南](新手完全指南.md)** | 零基础小白（从登录到下载验收） | 20 分钟阅读 + 1 天执行 |
+| **[SKILL.md](SKILL.md)** | AI 助手 / 进阶用户（完整流程 + 故障排查） | — |
+| **[scripts/majorbio_download.py](scripts/majorbio_download.py)** | 批量下载脚本 | — |
+| **[scripts/scRNA_qc_report.py](scripts/scRNA_qc_report.py)** | 质控报告脚本 | — |
+| **[小白文档](小白文档/)** | Word/Excel/PPT 三件套（课题组培训） | — |
+
+> ⚠️ **如果你不确定该看哪个** → 直接打开 **[新手完全指南](新手完全指南.md)**，从第一章开始！
+
 ## ✨ 特性
 
 - 🔐 SSO 登录 + 图形验证码 OCR（ddddocr）自动识别
